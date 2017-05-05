@@ -1,5 +1,8 @@
 # CHIP-8 Emulator for UEFI
 
+You can learn more about CHIP-8 on the Wikipédia page:
+https://en.wikipedia.org/wiki/CHIP-8
+
 ## Purpose of this project
 
 The purpose of this project is to show what UEFI is capable of. This emulator is more like a proof than a real usable emulator. Indeed, the ROMs are hardcoded in the file `ROMS.h`. Of course, it's possible to read files in UEFI.
